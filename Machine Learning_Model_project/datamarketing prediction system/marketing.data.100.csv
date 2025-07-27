@@ -1,0 +1,101 @@
+Name,Email,Age,Gender,Country,Source,Conversion,Clicks,Impressions,Spend,Revenue
+Vikram,vikram26@gmail.com,45,Male,India,Google Ads,Yes,30,370,366.55,302.82
+Arjun,arjun92@example.com,19,Male,Canada,Email,No,50,143,460.78,0
+Vikram,vikram91@outlook.com,29,Female,Canada,Instagram,No,53,168,81.72,0
+Vikram,vikram70@outlook.com,36,Female,Canada,Instagram,Yes,39,396,329.52,535.11
+Riya,riya67@gmail.com,23,Female,UK,Google Ads,Yes,88,265,62.43,82.29
+Priya,priya84@yahoo.com,50,Male,USA,Instagram,No,35,79,68.37,0
+Karan,karan84@outlook.com,32,Male,India,Email,No,66,277,268.72,0
+Karan,karan9@gmail.com,35,Female,UK,Facebook,Yes,2,385,431.78,399.64
+Priya,priya81@outlook.com,55,Male,USA,Organic,Yes,20,196,339.93,653.37
+Priya,priya67@gmail.com,57,Male,Canada,Google Ads,No,49,280,416.03,0
+Arjun,arjun24@outlook.com,58,Female,Canada,Instagram,Yes,62,554,415.5,363.86
+Karan,karan77@yahoo.com,31,Female,UK,Facebook,Yes,93,237,,494.86
+Neha,neha86@example.com,39,Male,UK,Organic,Yes,13,253,226.49,196.47
+Sneha,sneha42@example.com,,Female,Canada,Facebook,Yes,42,317,478.34,563.43
+Vikram,vikram64@outlook.com,49,Male,Australia,Organic,Yes,92,288,90.55,154.84
+Divya,divya19@outlook.com,20,Female,USA,Instagram,No,,367,192.41,0
+Arjun,arjun42@yahoo.com,27,Female,USA,Facebook,No,46,478,320.8,0
+Rahul,rahul53@outlook.com,23,Female,India,Organic,Yes,4,54,181.06,262.55
+Neha,neha89@example.com,39,Female,Canada,Facebook,No,43,43,312.74,0
+Sneha,sneha85@example.com,20,Male,USA,Email,No,97,214,221.83,0
+Vikram,vikram69@example.com,43,Female,Canada,Facebook,Yes,12,176,461.41,402.5
+Arjun,arjun37@example.com,34,Female,Australia,Email,No,92,298,138.82,0
+Neha,neha79@gmail.com,29,Female,Australia,Organic,Yes,45,268,426.35,745.53
+Riya,riya38@outlook.com,27,Female,USA,Facebook,Yes,70,104,272.44,466.55
+Rahul,rahul35@example.com,24,Male,India,Facebook,Yes,70,426,452.44,732.37
+Neha,neha65@outlook.com,41,Female,India,Facebook,No,47,177,222.13,0
+Amit,amit36@yahoo.com,25,Female,Canada,Instagram,No,100,219,427.85,0
+Divya,divya71@yahoo.com,43,Female,India,Facebook,No,36,93,473.98,0
+Neha,neha25@outlook.com,23,Female,Australia,Facebook,No,84,142,133.3,0
+Rahul,rahul36@outlook.com,57,Female,USA,Email,Yes,73,168,93.27,91.68
+Rahul,rahul19@gmail.com,28,Male,UK,Email,Yes,24,236,201.63,233.92
+Rahul,rahul92@gmail.com,60,Female,USA,Organic,Yes,75,355,259.46,459.87
+Priya,priya96@outlook.com,33,Male,USA,Organic,No,74,273,247.32,0
+Rahul,rahul98@outlook.com,30,Female,UK,Google Ads,Yes,82,517,62.94,111.08
+Divya,divya69@example.com,55,Male,Canada,Facebook,Yes,49,114,80.83,67.78
+Rahul,rahul37@yahoo.com,40,Male,UK,Instagram,No,79,380,326.73,0
+Priya,priya68@yahoo.com,33,Male,India,Email,No,65,338,218.71,0
+Rahul,rahul61@yahoo.com,46,Male,USA,Email,Yes,56,548,440.97,421.2
+Karan,karan53@outlook.com,31,Male,Australia,Facebook,Yes,43,170,331.65,308.57
+Rahul,rahul50@example.com,58,Male,Australia,Email,Yes,27,473,32.43,32.92
+Karan,karan8@outlook.com,25,Female,UK,Google Ads,No,65,563,251.51,0
+Neha,neha72@gmail.com,23,Male,Canada,Instagram,Yes,31,512,167.28,142.3
+Vikram,vikram79@yahoo.com,44,Male,Canada,Email,Yes,96,545,155.39,145.41
+Karan,karan1@yahoo.com,35,Male,India,Email,Yes,23,366,281.88,543.2
+Arjun,arjun90@outlook.com,25,Male,Canada,Organic,Yes,59,152,346.97,414.51
+Divya,divya2@outlook.com,30,Male,USA,Instagram,No,82,235,286.3,0
+Vikram,vikram8@yahoo.com,31,Female,USA,Organic,No,96,141,464.59,0
+Riya,riya44@outlook.com,22,Female,Australia,Google Ads,Yes,74,211,494.93,826.76
+Karan,karan37@gmail.com,22,Female,India,Email,Yes,72,506,275.8,532.99
+Riya,riya78@yahoo.com,27,Female,Australia,Google Ads,Yes,74,149,122.59,199.64
+Neha,neha97@gmail.com,48,Male,UK,Organic,Yes,70,471,107.33,182.73
+Priya,priya100@gmail.com,33,Female,Canada,Google Ads,No,75,190,256.78,0
+Karan,karan45@gmail.com,23,Male,Australia,Instagram,Yes,2,105,447.97,536.81
+Arjun,arjun40@gmail.com,47,Female,Australia,Google Ads,Yes,68,182,291.1,257.41
+Vikram,vikram23@yahoo.com,33,Male,India,Instagram,No,79,517,177.4,0
+Riya,riya23@example.com,48,Male,USA,Organic,Yes,78,548,477.11,866.7
+Neha,neha49@outlook.com,20,Male,Canada,Facebook,No,6,309,183.19,0
+Neha,neha25@yahoo.com,18,Female,India,Google Ads,Yes,73,79,490.75,803.51
+Sneha,sneha6@yahoo.com,20,Male,USA,Facebook,Yes,73,423,55.47,99.51
+Priya,priya22@example.com,21,Male,Canada,Instagram,No,1,463,208.94,0
+Vikram,vikram97@outlook.com,57,Male,Canada,Instagram,No,2,341,259.59,0
+Amit,amit17@example.com,29,Male,USA,Organic,No,21,452,386.23,0
+Vikram,vikram81@yahoo.com,31,Female,USA,Email,Yes,82,291,22.69,42.33
+Riya,riya87@gmail.com,42,Female,Australia,Instagram,Yes,52,453,182.44,239.06
+Divya,divya57@gmail.com,52,Female,India,Instagram,No,13,28,339.59,0
+Rahul,rahul35@gmail.com,30,Female,Canada,Organic,No,33,82,127.79,0
+Rahul,rahul28@example.com,53,Male,USA,Google Ads,No,55,289,234.61,0
+Divya,divya57@gmail.com,35,Male,USA,Instagram,No,29,496,313.36,0
+Vikram,vikram41@outlook.com,24,Female,Canada,Email,Yes,79,551,372.58,577.86
+Riya,riya69@outlook.com,57,Male,UK,Facebook,Yes,97,508,72.83,112.39
+Vikram,vikram20@outlook.com,19,Female,USA,Facebook,Yes,70,280,181.74,208.59
+Rahul,rahul21@gmail.com,25,Female,Canada,Facebook,Yes,63,76,117.39,208
+Divya,divya96@yahoo.com,44,Female,India,Organic,No,72,288,245.47,0
+Vikram,vikram49@example.com,53,Male,USA,Organic,Yes,74,130,135.88,195.73
+Divya,divya95@outlook.com,38,Male,Canada,Facebook,Yes,67,105,349.32,445.57
+Amit,amit100@gmail.com,24,Female,UK,Facebook,No,61,418,291.16,0
+Priya,priya36@outlook.com,57,Male,UK,Organic,Yes,10,59,389.42,552.47
+Rahul,rahul4@gmail.com,59,Female,USA,Google Ads,Yes,60,428,175.04,343.71
+Karan,karan4@yahoo.com,21,Male,Canada,Email,No,11,22,402.7,0
+Vikram,vikram50@gmail.com,53,Male,USA,Organic,No,26,462,241.93,0
+Amit,amit13@yahoo.com,28,Male,India,Organic,No,66,263,445.46,0
+Arjun,arjun84@yahoo.com,40,Female,Australia,Email,Yes,33,86,100.58,135.43
+Priya,priya45@gmail.com,46,Male,USA,Organic,No,95,370,132.96,0
+Rahul,rahul27@example.com,59,Male,UK,Organic,No,59,216,368.56,0
+Vikram,vikram84@outlook.com,23,Female,India,Organic,Yes,42,254,375.99,586.98
+Sneha,sneha98@outlook.com,31,Male,Australia,Email,Yes,18,40,220.09,190.76
+Vikram,vikram75@yahoo.com,32,Male,Canada,Facebook,No,89,410,279.38,0
+Divya,divya24@example.com,48,Male,Australia,Facebook,No,52,315,410.4,0
+Sneha,sneha21@outlook.com,49,Female,Australia,Facebook,Yes,66,430,203.25,399.59
+Riya,riya54@gmail.com,21,Male,UK,Instagram,Yes,22,443,154.45,188.57
+Neha,neha32@yahoo.com,44,Male,India,Google Ads,No,42,279,171.5,0
+Sneha,sneha7@gmail.com,39,Male,Canada,Instagram,Yes,62,387,73.68,72.43
+Riya,riya39@yahoo.com,40,Male,India,Google Ads,Yes,18,326,60.92,112.47
+Arjun,arjun80@example.com,25,Female,Australia,Email,Yes,8,416,347.67,559.35
+Sneha,sneha26@yahoo.com,30,Female,Canada,Instagram,No,57,535,74.45,0
+Sneha,sneha95@gmail.com,29,Male,UK,Instagram,No,3,15,53.68,0
+Amit,amit90@yahoo.com,57,Female,India,Google Ads,Yes,58,165,288.18,571.31
+Rahul,rahul13@example.com,38,Female,USA,Facebook,No,98,401,421.9,0
+Sneha,sneha10@gmail.com,44,Male,India,Instagram,No,6,119,120.9,0
+Vikram,vikram61@example.com,52,Male,Australia,Google Ads,No,19,449,337.54,0
